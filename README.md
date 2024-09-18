@@ -18,7 +18,7 @@ I make computers do things. ⚙️💻
 - 🛠️ i3 config + Neovim rabbithole explorer (send help?).
 
 ## Find me in the void 🌌:
-- 🐦 [Twitter: @Vedantthere](https://twitter.com/Vedantthere)
+- 🐦 [Twitter: @Vedantthere](https://twitter.com/Vedantthere) (I am Never calling it  𝕏. ATLEAST HERE!)
 - 📧 [Email: vchaware52@gmail.com](mailto:vchaware52@gmail.com)
 
 ## I love building stuff—just for the heck of it! 🚀  
