@@ -7,7 +7,8 @@ I make computers do things. ⚙️💻
 - **Node.js**  
 - **Go**  
 - **TypeScript**  
-- **Prisma**  
+- **Prisma**
+- **Bash** 
 - **Docker**
 
 ## What I'm up to:
