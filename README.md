@@ -17,12 +17,12 @@ I make computers do things. ⚙️💻
 - 🐳 Convincing Docker containers to play nice.
 - 🛠️ i3 config + Neovim rabbithole explorer (send help?).
 
-## Find me in the void 🌌:
+## Find me Here!:
 - 🐦 [Twitter: @Vedantthere](https://twitter.com/Vedantthere) (I am Never calling it  𝕏. ATLEAST HERE!)
 - 📧 [Email: vchaware52@gmail.com](mailto:vchaware52@gmail.com)
 
 ## I love building stuff—just for the heck of it! 🚀  
-Often collaborating with [@thedemonsid](https://github.com/thedemonsid) (great ideas, even better times).
+Often collaborating with [@thedemonsid](https://github.com/thedemonsid) or[@SamayXD](https://github.com/SamayXD)  (great ideas, even better times).
 
 ## Collab? 🤝  
 Got an idea that doesn’t suck? Hit me up, I’m in!
